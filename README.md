@@ -4,11 +4,8 @@ A simple digital clock built with React that displays the current time in 12-hou
 
 ---
 
-## 📸 Preview
 
-![Digital Clock Screenshot](assets/Peaceful-Desktop-Backgrounds.jpeg)
 
----
 
 ## 🚀 Features
 
